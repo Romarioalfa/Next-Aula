@@ -1,0 +1,12 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Eletrodomesticos"
+        },
+        {
+            "id": 2,
+            "nome": "Games"
+        }
+    ]
+}
